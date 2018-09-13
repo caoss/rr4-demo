@@ -1,3 +1,4 @@
+razzle脚手架:服务端渲染。
 **WARNING: This is the documentation for `razzle@next` (Webpack 4).**  
 [Go here for for razzle@0.8.x (stable) docs (Webpack 3)](https://github.com/jaredpalmer/razzle/tree/master).
 
